@@ -5,14 +5,14 @@ import classes from './AvailableMeals.module.css';
 const DUMMY_MEALS = [
   {
     id: 'm1',
-    name: 'Sushi',
-    description: 'Finest fish and veggies',
+    name: 'Aloo Kulcha',
+    description: 'Whole wheat flour, potatoes,garam masala',
     price: 22.99,
   },
   {
     id: 'm2',
-    name: 'Schnitzel',
-    description: 'A german specialty!',
+    name: 'Veg Fried Rice',
+    description: 'Matar, basmati rice, cabbage, soy sauce, beans',
     price: 16.5,
   },
   {
@@ -23,8 +23,8 @@ const DUMMY_MEALS = [
   },
   {
     id: 'm4',
-    name: 'Green Bowl',
-    description: 'Healthy...and green...',
+    name: 'Chicken Sizzler',
+    description: 'Sizzler, skinless chicken breasts, cherry tomatoes',
     price: 18.99,
   },
 ];
